@@ -1,0 +1,4 @@
+- **Alternating Least Squares (ALS)** for Collaborative Filtering
+- **Neural Collaborative Filtering (NCF)** for Collaborative Filtering
+- **Simple Algorithm for Recommendation (SAR)*** for Collaborative Filtering
+- **Surprise/Singular Value Decomposition (SVD)** for Collaborative Filtering
